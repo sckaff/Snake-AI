@@ -16,7 +16,7 @@ Point = namedtuple('Point', 'x, y')
 # Size of each "box" in the game
 BOX = 20
 # Speed of the game
-SPEED = 10000
+SPEED = 80
 # The background is white
 BACKGROUND_COLOR = (255, 255, 255)
 # The score text is black
